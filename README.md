@@ -99,7 +99,8 @@ index.html:
 
 
 ## OUTPUT:
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-12-19 142340.png
+<img width="1288" height="819" alt="Screenshot 2025-12-19 142340" src="https://github.com/user-attachments/assets/9b86b939-ab74-4077-bdd1-5e763ad241ee" />
+
 
 
 ## RESULT:
